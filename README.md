@@ -2,6 +2,5 @@
 - 👀 I’m interested in website design and data analysis.
 - 🌱 I’m currently learning Python, HTML, and CSS.
 - 💞️ I’m looking to collaborate on data science analysis projects.
-- 📫 How to reach me daria.i2205@gmail.com
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I did anthropological reseaches about CS:GO players, about Amsterdam tour guides, and about film photographers. 
