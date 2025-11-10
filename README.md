@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ilidora
-- 👀 I’m interested in website design and data analysis.
+- 👋 Hi, I’m Daria/Dasha!
+- 👀 I’m interested in cultural data analysis and machine learning.
 - 🌱 I’m currently learning Python, HTML, and CSS.
 - 💞️ I’m looking to collaborate on data science analysis projects.
 - 😄 Pronouns: she/her.
