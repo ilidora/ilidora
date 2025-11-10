@@ -1,6 +1,23 @@
-- 👋 Hi, I’m Daria/Dasha!
-- 👀 I’m interested in cultural data analysis and machine learning.
-- 🌱 I’m currently learning Python, HTML, and CSS.
-- 💞️ I’m looking to collaborate on data science analysis projects.
-- 😄 Pronouns: she/her.
-- ⚡ Fun fact: I did anthropological reseaches about CS:GO players, about Amsterdam tour guides, and about film photographers. 
+I’m a master student in Cultural Data and AI, passionate to explore how to implement ethics in AI integration in cultural and early childhood education sectors.
+My background combines anthropology, sociology, data science, and social media management, and I enjoy projects that sit at the intersection of technology, culture, and sustainability.
+
+I’ve worked on projects involving:
+
+📊 Data mining and statistical modeling (SPSS, Python)
+💬 Critical analysis of NLP use in authoritarian censorship
+🌱 I’m currently expanding my skills in Python and ML
+
+⚙️ Tech Stack
+
+Languages: Python · HTML · CSS (novice)
+
+Frameworks & Tools: VSC · Google Colab · Git · Excel
+
+Data Science: SPSS · NumPy · pandas 
+
+Specialties: Machine Learning · Data Mining
+
+🔭 Currently working on [...]
+
+📫 How to reach me: Email: daria.i2205@gmail.com 
+                    LinkedIn: www.linkedin.com/in/daria-ilina-68669026a 
