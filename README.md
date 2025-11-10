@@ -1,4 +1,4 @@
-I’m a master student in Cultural Data and AI, passionate to explore how to implement ethics in AI integration in cultural and early childhood education sectors.
+I’m a master's student in Cultural Data and AI, passionate to explore how to implement ethics in AI integration in cultural and early childhood education sectors.
 My background combines anthropology, sociology, data science, and social media management, and I enjoy projects that sit at the intersection of technology, culture, and sustainability.
 
 I’ve worked on projects involving:
