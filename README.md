@@ -15,9 +15,9 @@ Frameworks & Tools: VSC · Google Colab · Git · Excel
 
 Data Science: SPSS · NumPy · pandas 
 
-Specialties: Machine Learning · Data Mining
+Specialties: Machine Learning · Data Mining · HuggingFace · Tensorflow · PyTorch
 
-🔭 Currently working on [...]
+🔭 Currently working on Data Sprint for my master's, where my teammates and I create a multimodal analysis pipeline for political short-form videocontent from TikTok.
 
 📫 How to reach me: Email: daria.i2205@gmail.com 
                     LinkedIn: www.linkedin.com/in/daria-ilina-68669026a 
